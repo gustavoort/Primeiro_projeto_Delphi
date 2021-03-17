@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/30 08:46:46.000.626,D:\Projetos\treinamentoDelphi\Appdproj.dproj=D:\Projetos\treinamentoDelphi\AppWilliam.dproj</Transaction>
+    <Transaction>2021/01/30 08:49:16.000.984,=D:\Projetos\treinamentoDelphi\uCliente.pas</Transaction>
+    <Transaction>2021/01/30 10:26:09.000.816,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/30 10:27:04.000.650,D:\Projetos\treinamentoDelphi\uFuncoes.pas=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/30 10:39:52.000.251,D:\Projetos\treinamentoDelphi\uTelaBase.dfm=D:\Projetos\treinamentoDelphi\uCliente.dfm</Transaction>
+    <Transaction>2021/01/30 10:39:52.000.251,D:\Projetos\treinamentoDelphi\uTelaBase.pas=D:\Projetos\treinamentoDelphi\uCliente.pas</Transaction>
+    <Transaction>2021/01/30 10:56:24.000.421,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/30 10:56:38.000.644,D:\Projetos\treinamentoDelphi\uCliente.pas=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/30 10:56:38.000.644,D:\Projetos\treinamentoDelphi\uCliente.dfm=D:\Projetos\treinamentoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/01/30 10:59:55.000.193,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/30 11:00:13.000.421,D:\Projetos\treinamentoDelphi\uPacote.dfm=D:\Projetos\treinamentoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/01/30 11:00:13.000.421,D:\Projetos\treinamentoDelphi\uPacote.pas=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/31 21:28:01.000.374,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/31 21:29:10.000.784,D:\Projetos\treinamentoDelphi\Unit1.dfm=D:\Projetos\treinamentoDelphi\uMensalidade.dfm</Transaction>
+    <Transaction>2021/01/31 21:29:10.000.784,D:\Projetos\treinamentoDelphi\Unit1.pas=D:\Projetos\treinamentoDelphi\uMensalidade.pas</Transaction>
+    <Transaction>2021/01/31 22:39:45.000.603,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/31 22:42:05.000.699,D:\Projetos\treinamentoDelphi\Unit1.pas=D:\Projetos\treinamentoDelphi\uVenda.pas</Transaction>
+    <Transaction>2021/01/31 22:42:05.000.699,D:\Projetos\treinamentoDelphi\Unit1.dfm=D:\Projetos\treinamentoDelphi\uVenda.dfm</Transaction>
+    <Transaction>2021/02/12 22:40:49.000.697,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/12 22:44:58.000.816,D:\Projetos\treinamentoDelphi\uAvisos.dfm=D:\Projetos\treinamentoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/02/12 22:44:58.000.816,D:\Projetos\treinamentoDelphi\uAvisos.pas=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/12 23:49:04.000.226,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/12 23:49:56.000.058,D:\Projetos\treinamentoDelphi\uUsuarios.pas=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/12 23:49:56.000.058,D:\Projetos\treinamentoDelphi\uUsuarios.dfm=D:\Projetos\treinamentoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/02/13 01:16:19.000.073,D:\Projetos\treinamentoDelphi\uVenda.pas=</Transaction>
+    <Transaction>2021/02/13 01:18:27.000.876,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/13 01:19:03.000.999,D:\Projetos\treinamentoDelphi\Unit1.dfm=D:\Projetos\treinamentoDelphi\uVenda.dfm</Transaction>
+    <Transaction>2021/02/13 01:19:03.000.999,D:\Projetos\treinamentoDelphi\Unit1.pas=D:\Projetos\treinamentoDelphi\uVenda.pas</Transaction>
+    <Transaction>2021/02/13 01:19:17.000.474,D:\Projetos\treinamentoDelphi\uVenda.dfm=D:\Projetos\treinamentoDelphi\uVendas.dfm</Transaction>
+    <Transaction>2021/02/13 01:19:17.000.474,D:\Projetos\treinamentoDelphi\uVenda.pas=D:\Projetos\treinamentoDelphi\uVendas.pas</Transaction>
+    <Transaction>2021/02/13 01:34:31.000.238,=D:\Projetos\treinamentoDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/13 01:36:21.000.029,D:\Projetos\treinamentoDelphi\uMensalidade.pas=</Transaction>
+    <Transaction>2021/02/13 01:36:35.000.370,D:\Projetos\treinamentoDelphi\Unit1.pas=D:\Projetos\treinamentoDelphi\uMensalidade.pas</Transaction>
+    <Transaction>2021/02/13 01:36:35.000.370,D:\Projetos\treinamentoDelphi\Unit1.dfm=D:\Projetos\treinamentoDelphi\uMensalidade.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
